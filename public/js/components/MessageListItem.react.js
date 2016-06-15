@@ -12,7 +12,7 @@ var MessageListItem = React.createClass({
     var message = this.props.message;
     return (
       <div className="message-list-item">
-        <strong className="message-author-name">{message.username}</strong>:
+        <strong className="message-author-name">{message.username}</strong> 
         <p className="message-text"> {message.text}</p>
       </div>
     );
