@@ -1,7 +1,28 @@
+@import 'https://fonts.googleapis.com/css?family=Bungee+Shade';
 body, html {
     height: 100%;
 }
+
+.nav navbar-nav{
+
+}
+
+.form-group {
+  color: #c0392b;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 50px;
+}
+
+.form-control {
+  height: 80px;
+  width: 700px;
+  font-size: 40px;
+  border-radius: 40px;
+  padding-left: 30px;
+}
+
 .navbar {
+  font-family: 'Bungee Shade', cursive;
     margin-bottom: 0;
 }
 .navbar-right {

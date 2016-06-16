@@ -25,7 +25,6 @@ var Login = React.createClass({
               />
           </label>
         </div>
-        <button onClick={this._onClick} className="btn btn-primary">Continue</button>
       </div>
     );
   },
