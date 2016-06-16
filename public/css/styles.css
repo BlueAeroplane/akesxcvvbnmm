@@ -46,11 +46,11 @@ body, html {
 .message-composer {
     border-top: 1px solid #e7e7e7;
 }
-.message-composer input {
+.message-composer input { 
     width: 100%;
     height: 90px;
     font-size: 30px;
-
+    border-radius: 0px;
 }
 
 /*
