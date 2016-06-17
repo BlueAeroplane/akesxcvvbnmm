@@ -8,7 +8,7 @@ var WaitingRoom = React.createClass({
         <div className="panel-heading">Please wait</div>
         <div className="panel-body">
           <p>The next available person will be matched with you.</p>
-          <p>To chat with yourself, open this page again in another browser window.</p>
+          <p>If you are sad and want to talk to your self open up another tab.</p>
         </div>
       </div>
     )
