@@ -1,6 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Bungee+Shade';
 body, html {
     height: 100%;
+    background-color: #c4dfe6;
 }
 
 .nav navbar-nav{
@@ -14,6 +15,7 @@ body, html {
 }
 
 .form-control {
+  background-color: ##a0b5bf;
   height: 80px;
   width: 400px;
   font-size: 40px;
@@ -21,7 +23,12 @@ body, html {
   padding-left: 30px;
 }
 
+.navbar-default {
+  color: white;
+}
+
 .navbar {
+  background-color: #dcf0f5;
   font-family: 'Bungee Shade', cursive;
     margin-bottom: 0;
 }
